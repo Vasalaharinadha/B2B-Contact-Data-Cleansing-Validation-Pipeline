@@ -146,7 +146,7 @@ High Quality Records: 823
 Low Quality Records: 177
 Duplicates Removed: 47
 ============================================================
-```
+
 
 ## 🔧 Technical Details
 
@@ -164,25 +164,4 @@ Duplicates Removed: 47
 5. **Enrich** → Add quality scores and metadata
 6. **Export** → Save cleaned data
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 👤 Author
-
-**Your Name**
-- Portfolio: [your-portfolio.com]
-- LinkedIn: [your-linkedin]
-- GitHub: [@yourusername]
-
-## 🙏 Acknowledgments
-
-Built as a portfolio project demonstrating data engineering expertise for B2B sales intelligence platforms like Zintlr.
-
----
-
-⭐ If you find this project useful, please consider giving it a star!
