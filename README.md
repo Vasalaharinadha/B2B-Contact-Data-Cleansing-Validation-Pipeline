@@ -2,8 +2,6 @@
 
 
 
-# B2B Contact Data Cleansing & Validation Pipeline
-
 A comprehensive data engineering solution for cleaning, validating, and standardizing B2B contact information - perfect for sales intelligence platforms.
 
 ## 🎯 Project Overview
